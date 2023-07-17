@@ -1,6 +1,6 @@
 # Configure ufw so that it blocks all incoming traffic,exept TCP ports:
 # 22 (SSH)
-# 443 (HTTPS SS
+# 443 (HTTPS SSL)
 #+ except for TCP ports 22, 443 and 80.
 
 apt-get install ufw
